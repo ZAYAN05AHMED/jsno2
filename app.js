@@ -87,8 +87,12 @@
 
 
 // ANS 
-var a = prompt("Enter your name");
-for
+// var a = prompt("Enter your name");
+// if(a.match(/[\@\.\,\!\?\\\$\#\^\&\*\(\)\[\]\|\~\`\"\<\,\;\'\=\+\_]/)===null){
+//       alert("valid username")
+// }else{
+//     alert("invalid username")
+// }
 
 
 // 3. You have a string “The quick brown fox jumps over the lazy
